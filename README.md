@@ -1,11 +1,15 @@
 # 💫 About Me:
-🌱 I’m currently learning Information Assurance in FPT University.<br>💬 Ask me about cybersecurity, games, traveling, and matcha.
+🌱 I'm currently learning Information Assurance in FPT University.<br>💬 Ask me about cybersecurity, games, traveling, and matcha.
 
 
 # 📊 GitHub Stats:
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=Ocean-ng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ocean-ng&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ocean-ng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 
 # 💻 Tech Stack:
