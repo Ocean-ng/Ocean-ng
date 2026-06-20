@@ -2,10 +2,6 @@
 🌱 I’m currently learning Information Assurance in FPT University.<br>💬 Ask me about cybersecurity, games, traveling, and matcha.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/nguyenthithuynga2006/](https://www.linkedin.com/in/nguyenthithuynga2006/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm47QhzGZRkGJo0kVhf6gFw%3D%3D)) 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ocean-ng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ocean-ng&theme=dark&hide_border=false)<br/>
