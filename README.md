@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🎓 Currently studying **Information Assurance** at FPT University.  
-🔐 Interested in **cybersecurity**, **games**, **traveling**, and **matcha** 🍵
+🔐 Interested in **cybersecurity**, **games**, **traveling** and **matcha** 🍵
 
 ---
 
