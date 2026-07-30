@@ -3,7 +3,7 @@
 🎓 Currently studying **Information Assurance** at FPT University.  
 🔐 Interested in **cybersecurity**, **games**, **traveling** and **matcha** 🍵
 
----
+
 
 <div align="center">
 
@@ -21,7 +21,7 @@
   </tr>
 </table>
 
----
+
 
 ## 💻 Tech Stack
 
